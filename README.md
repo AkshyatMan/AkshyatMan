@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:manandharakshyat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/AkshyatMan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/akshyatmanandhar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/akshyat-manandhar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=AkshyatMan&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -18,13 +18,13 @@
 <details open>
 <summary><b>Click to expand / collapse</b></summary>
 
-<br/>
+<br />
 
 - 🔭 Currently building full-stack products with **React**, **React Native**, **Node.js** and **Go**
 - 💻 Comfortable across the whole stack — web frontend, mobile apps, backend APIs and services
 - 👯 Open to collaborating on **web & mobile projects**
 - 💬 Ask me about **React, React Native, Node.js or Go**
-- 📫 Reach me at **manandharakshyat@gmail.com**
+- 📫 Reach me at **<manandharakshyat@gmail.com>**
 - ⚡ Fun fact: **I write Go by day, React by night, and dream in TypeScript interfaces**
 
 ```json
@@ -63,6 +63,7 @@
 ## 🚀 Featured Projects
 
 <!-- Replace YOUR_REPO_NAME_1..4 with your real repo names, then delete this comment -->
+
 <p align="center">
   <a href="https://github.com/AkshyatMan/YOUR_REPO_NAME_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_1&theme=radical" alt="repo 1" />
@@ -110,11 +111,44 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 🏆 Trophies
+## 📜 Certificates
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshyatMan&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=8" alt="Trophies" />
+  <a href="https://www.credly.com/go/27u2sTZZ"><img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Foundations" /></a>
+  <a href="https://www.credly.com/go/iSjqHX2C"><img src="https://img.shields.io/badge/AWS%20Academy-ML%20Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS ML Foundations" /></a>
+  <img src="https://img.shields.io/badge/Islington%20College-AAA%20Scholarship%20%C3%972-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="AAA Scholarship" />
 </p>
+
+<details>
+<summary><b>🔍 View certificates</b></summary>
+
+<br/>
+
+**AWS Academy Graduate — Cloud Foundations** · 20 hours · Issued 08/01/2022 · [Verify on Credly](https://www.credly.com/go/27u2sTZZ)
+
+<p align="center">
+  <img src="assets/certificates/aws-academy-cloud-foundations.png" width="70%" alt="AWS Academy Cloud Foundations certificate" />
+</p>
+
+**AWS Academy Graduate — Machine Learning Foundations** · 20 hours · Issued 09/19/2022 · [Verify on Credly](https://www.credly.com/go/iSjqHX2C)
+
+<p align="center">
+  <img src="assets/certificates/aws-academy-ml-foundations.png" width="70%" alt="AWS Academy Machine Learning Foundations certificate" />
+</p>
+
+**Islington College — AAA Scholarship Award 2023/24** · Academic performance, aspiring attitude, remarkable attendance
+
+<p align="center">
+  <img src="assets/certificates/islington-aaa-2023-24.png" width="50%" alt="Islington College AAA Scholarship Award 2023/24" />
+</p>
+
+**Islington College — AAA Scholarship Award 2022/23** · Academic performance, aspiring attitude, remarkable attendance
+
+<p align="center">
+  <img src="assets/certificates/islington-aaa-2022-23.png" width="50%" alt="Islington College AAA Scholarship Award 2022/23" />
+</p>
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
