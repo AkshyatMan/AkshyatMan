@@ -145,14 +145,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshyatMan&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
-
 ## 📜 Certificates
 
 <p align="center">
@@ -160,9 +152,6 @@
   <a href="https://www.credly.com/go/iSjqHX2C"><img src="https://img.shields.io/badge/AWS%20Academy-ML%20Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS ML Foundations" /></a>
   <img src="https://img.shields.io/badge/Islington%20College-AAA%20Scholarship%20%C3%972-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="AAA Scholarship" />
 </p>
-
-<details>
-<summary><b>🔍 View certificates</b></summary>
 
 <br/>
 
@@ -189,8 +178,6 @@
 <p align="center">
   <img src="assets/certificates/islington-aaa-2022-23.png" width="50%" alt="Islington College AAA Scholarship Award 2022/23" />
 </p>
-
-</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
