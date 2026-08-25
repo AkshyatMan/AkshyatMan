@@ -1,82 +1,164 @@
-<h1 align="center">Hi 👋, I'm Akshyat Manandhar</h1>
-<h3 align="center">Fullstack Developer • React • React Native • Node.js • Go</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=220&section=header&text=Akshyat%20Manandhar&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Fullstack%20Developer&descSize=18&descAlignY=62" width="100%" alt="banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+full-stack+products+with+React+%26+Node.js;Crafting+mobile+apps+with+React+Native;Writing+scalable+backend+services+in+Go;Open+source+contributor+%E2%80%A2+Problem+solver;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+full-stack+products+with+React+%26+Node.js;Crafting+mobile+apps+with+React+Native;Writing+scalable+backend+services+in+Go;Open+source+contributor+%E2%80%A2+Problem+solver;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
-- 🔭 I'm currently building full-stack products with **React**, **React Native**, **Node.js**, and **Go**
-- 💻 Comfortable across the whole stack — web frontend, mobile apps, and backend APIs/services
-- 👯 I'm open to collaborating on **web & mobile projects**
-- 💬 Ask me about **React, React Native, Node.js, or Go**
-- 📫 How to reach me: **manandharakshyat@gmail.com**
+<p align="center">
+  <a href="mailto:manandharakshyat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/AkshyatMan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/akshyatmanandhar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AkshyatMan&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 🧑‍💻 About Me
+
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+
+<br/>
+
+- 🔭 Currently building full-stack products with **React**, **React Native**, **Node.js** and **Go**
+- 💻 Comfortable across the whole stack — web frontend, mobile apps, backend APIs and services
+- 👯 Open to collaborating on **web & mobile projects**
+- 💬 Ask me about **React, React Native, Node.js or Go**
+- 📫 Reach me at **manandharakshyat@gmail.com**
 - ⚡ Fun fact: **I write Go by day, React by night, and dream in TypeScript interfaces**
 
-<br/>
+```json
+{
+  "name": "Akshyat Manandhar",
+  "role": "Fullstack Developer",
+  "stack": ["React", "React Native", "Node.js", "Go"],
+  "currently_learning": ["System Design", "Distributed Systems"],
+  "fun_fact": "I write Go by day, React by night, and dream in TypeScript interfaces"
+}
+```
 
-### 🛠️ Languages & Tools
+</details>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 🛠️ Tech Stack
+
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,python,rust" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=reactnative,redux,graphql,postgres,mongodb,redis,docker,kubernetes" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,linux,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python,html,css&theme=dark" alt="languages" />
 </p>
 
-<br/>
-
-### 📊 GitHub Stats
-
+<p align="center"><b>Frontend &amp; Mobile</b></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshyatMan&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshyatMan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" alt="frontend and mobile" />
 </p>
 
+<p align="center"><b>Backend, Data &amp; DevOps</b></p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshyatMan&theme=radical&hide_border=true&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis,docker,git,linux,aws,vercel&theme=dark" alt="backend data devops" />
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-### 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
+<!-- Replace YOUR_REPO_NAME_1..4 with your real repo names, then delete this comment -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshyatMan&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkshyatMan/AkshyatMan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<br/>
-
-### 🌐 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/akshyatmanandhar" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/AkshyatMan/YOUR_REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_1&theme=radical" alt="repo 1" />
   </a>
-  <a href="mailto:manandharakshyat@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://github.com/AkshyatMan/YOUR_REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_2&theme=radical" alt="repo 2" />
   </a>
-  <a href="https://github.com/AkshyatMan" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://github.com/AkshyatMan/YOUR_REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_3&theme=radical" alt="repo 3" />
+  </a>
+  <a href="https://github.com/AkshyatMan/YOUR_REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_4&theme=radical" alt="repo 4" />
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AkshyatMan&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshyatMan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=AkshyatMan&theme=radical&hide_border=true&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 📈 Activity Graph
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshyatMan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshyatMan&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=FF6B6B&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Thanks" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkshyatMan&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=8" alt="Trophies" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkshyatMan/AkshyatMan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkshyatMan/AkshyatMan/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AkshyatMan/AkshyatMan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </picture>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 📦 Metrics
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AkshyatMan&show_icons=false&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Repo+Stats" alt="Repo Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshyatMan&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Top+Languages" alt="Top Languages Compact" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 😄 Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Dev Joke" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 🙏 Thanks for Visiting!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=FF6B6B&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Thanks" />
 </p>
 
 <p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
