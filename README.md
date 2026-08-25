@@ -62,23 +62,66 @@
 
 ## 🚀 Featured Projects
 
-
-<p align="center">
-  <a href="https://vercel.com/akshyats-projects/otech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=Otech&theme=radical" alt="repo 1" />
-  </a>
-  <a href="https://github.com/AkshyatMan/DHN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_2&theme=radical" alt="repo 2" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/AkshyatMan/BarberFrontEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_3&theme=radical" alt="repo 3" />
-  </a>
-  <a href="https://github.com/AkshyatMan/SalonBuddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_4&theme=radical" alt="repo 4" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Otech</h3>
+      <p align="center">
+        <a href="https://otech-three.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Otech live demo" />
+        </a>
+        <a href="https://github.com/AkshyatMan/Otech">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Otech source" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=ts,react,tailwind&theme=dark" alt="Otech stack" />
+      </p>
+      <p align="center">Tech company website built in TypeScript, deployed on Vercel.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">SalonBuddy</h3>
+      <p align="center">
+        <a href="https://github.com/AkshyatMan/SalonBuddy">
+          <img src="https://img.shields.io/github/stars/AkshyatMan/SalonBuddy?style=for-the-badge&logo=github&color=EC4899&labelColor=181717" alt="SalonBuddy stars" />
+        </a>
+        <a href="https://github.com/AkshyatMan/SalonBuddy">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="SalonBuddy source" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,django,postgres&theme=dark" alt="SalonBuddy stack" />
+      </p>
+      <p align="center">Full barber shop management system — Flutter frontend, Django backend, PostgreSQL.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AkshyatPorfolio</h3>
+      <p align="center">
+        <a href="https://github.com/AkshyatMan/AkshyatPorfolio">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="AkshyatPorfolio source" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=ts,react,css&theme=dark" alt="AkshyatPorfolio stack" />
+      </p>
+      <p align="center">Personal portfolio site built with TypeScript.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">To-do-App</h3>
+      <p align="center">
+        <a href="https://github.com/AkshyatMan/To-do-App">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="To-do-App source" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="To-do-App stack" />
+      </p>
+      <p align="center">Task manager built with vanilla JavaScript.</p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
