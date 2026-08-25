@@ -62,11 +62,10 @@
 
 ## 🚀 Featured Projects
 
-<!-- Replace YOUR_REPO_NAME_1..4 with your real repo names, then delete this comment -->
 
 <p align="center">
-  <a href="https://github.com/AkshyatMan/Otech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_1&theme=radical" alt="repo 1" />
+  <a href="https://vercel.com/akshyats-projects/otech">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=Otech&theme=radical" alt="repo 1" />
   </a>
   <a href="https://github.com/AkshyatMan/DHN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_2&theme=radical" alt="repo 2" />
