@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=220&section=header&text=Akshyat%20Manandhar&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Fullstack%20Developer&descSize=18&descAlignY=62" width="100%" alt="banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+full-stack+products+with+React+%26+Node.js;Crafting+mobile+apps+with+React+Native;Writing+scalable+backend+services+in+Go;Open+source+contributor+%E2%80%A2+Problem+solver;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=Building+full-stack+products+with+React+%26+Node.js;Crafting+mobile+apps+with+React+Native;Writing+scalable+backend+services+in+Go;Open+source+contributor+%E2%80%A2+Problem+solver;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -65,18 +65,18 @@
 <!-- Replace YOUR_REPO_NAME_1..4 with your real repo names, then delete this comment -->
 
 <p align="center">
-  <a href="https://github.com/AkshyatMan/YOUR_REPO_NAME_1">
+  <a href="https://github.com/AkshyatMan/Otech">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_1&theme=radical" alt="repo 1" />
   </a>
-  <a href="https://github.com/AkshyatMan/YOUR_REPO_NAME_2">
+  <a href="https://github.com/AkshyatMan/DHN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_2&theme=radical" alt="repo 2" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/AkshyatMan/YOUR_REPO_NAME_3">
+  <a href="https://github.com/AkshyatMan/BarberFrontEnd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_3&theme=radical" alt="repo 3" />
   </a>
-  <a href="https://github.com/AkshyatMan/YOUR_REPO_NAME_4">
+  <a href="https://github.com/AkshyatMan/SalonBuddy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshyatMan&repo=YOUR_REPO_NAME_4&theme=radical" alt="repo 4" />
   </a>
 </p>
@@ -161,21 +161,6 @@
     <img src="https://raw.githubusercontent.com/AkshyatMan/AkshyatMan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
   </picture>
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
-
-## 📦 Metrics
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AkshyatMan&show_icons=false&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Repo+Stats" alt="Repo Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshyatMan&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Top+Languages" alt="Top Languages Compact" />
-    </td>
-  </tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
