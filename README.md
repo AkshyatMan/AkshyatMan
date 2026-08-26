@@ -106,7 +106,8 @@
       <p align="center">
         <img src="https://skillicons.dev/icons?i=ts,react,css&theme=dark" alt="AkshyatPorfolio stack" />
       </p>
-      <p align="center">Natural History Museum Landing page
+      <p align="center">Natural History Museum Landing page </p>
+      </td>
       <p align="center">
         <a href="https://lumoraindex.vercel.app/">
           <img src="https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Limora live demo" />
