@@ -97,28 +97,25 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AkshyatPorfolio</h3>
+      <h3 align="center">DHN Landing Page</h3>
       <p align="center">
-        <a href="https://github.com/AkshyatMan/AkshyatPorfolio">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="AkshyatPorfolio source" />
+        <a href="https://dhn-zsck.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="DHN live demo" />
         </a>
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=ts,react,css&theme=dark" alt="AkshyatPorfolio stack" />
       </p>
-      <p align="center">Personal portfolio site built with TypeScript.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">To-do-App</h3>
+      <p align="center">Natural History Museum Landing page
       <p align="center">
-        <a href="https://github.com/AkshyatMan/To-do-App">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="To-do-App source" />
+        <a href="https://lumoraindex.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Limora live demo" />
         </a>
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="To-do-App stack" />
       </p>
-      <p align="center">Task manager built with vanilla JavaScript.</p>
+      <p align="center">Interactive Landing Page with changing backgrounds.</p>
     </td>
   </tr>
 </table>
