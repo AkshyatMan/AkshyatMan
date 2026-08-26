@@ -106,15 +106,17 @@
       <p align="center">
         <img src="https://skillicons.dev/icons?i=ts,react,css&theme=dark" alt="AkshyatPorfolio stack" />
       </p>
-      <p align="center">Natural History Museum Landing page </p>
-      </td>
+      <p align="center">Natural History Museum.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Lumora Landing Page</h3>
       <p align="center">
         <a href="https://lumoraindex.vercel.app/">
-          <img src="https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Limora live demo" />
+          <img src="https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Lumora live demo" />
         </a>
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="To-do-App stack" />
+        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt=":umora" />
       </p>
       <p align="center">Interactive Landing Page with changing backgrounds.</p>
     </td>
