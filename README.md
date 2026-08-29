@@ -80,19 +80,19 @@
       <p align="center">Tech company website built in TypeScript, deployed on Vercel.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">SalonBuddy</h3>
-      <p align="center">
-        <a href="https://github.com/AkshyatMan/SalonBuddy">
-          <img src="https://img.shields.io/github/stars/AkshyatMan/SalonBuddy?style=for-the-badge&logo=github&color=EC4899&labelColor=181717" alt="SalonBuddy stars" />
+      <h3 align="center">Heirloom</h3>
+      <a href="https://heirloomweb.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Heirloom live demo" />
         </a>
+      <!-- <p align="center">
         <a href="https://github.com/AkshyatMan/SalonBuddy">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="SalonBuddy source" />
         </a>
-      </p>
+      </p> -->
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,django,postgres&theme=dark" alt="SalonBuddy stack" />
+        <img src="https://skillicons.dev/icons?i=expo,react,nodejs,postgres&theme=dark" alt="Heirloom stack" />
       </p>
-      <p align="center">Full barber shop management system — Flutter frontend, Django backend, PostgreSQL.</p>
+      <p align="center">Full barber shop management system — React Native Expo, React for frontend, Nodejs backend, PostgreSQL for database.</p>
     </td>
   </tr>
   <tr>
