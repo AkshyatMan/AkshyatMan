@@ -130,12 +130,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshyatMan&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshyatMan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshyatMan&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkshyatMan&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkshyatMan&theme=radical&hide_border=true&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AkshyatMan&theme=radical&hide_border=true&fire=FF6B6B&currStreakLabel=FF6B6B&v=1" alt="GitHub Streak" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
