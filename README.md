@@ -81,17 +81,19 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Heirloom</h3>
-      <a href="https://heirloomweb.vercel.app/" target="_blank">
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,postgres&theme=dark" alt="Heirloom stack" />
+      </p>
+      <p align="center">
+        <a href="https://heirloomweb.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Heirloom live demo" />
         </a>
+      </p>
       <!-- <p align="center">
         <a href="https://github.com/AkshyatMan/SalonBuddy">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="SalonBuddy source" />
         </a>
       </p> -->
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=expo,react,nodejs,postgres&theme=dark" alt="Heirloom stack" />
-      </p>
       <p align="center">Full barber shop management system — React Native Expo, React for frontend, Nodejs backend, PostgreSQL for database.</p>
     </td>
   </tr>
