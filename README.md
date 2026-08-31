@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,55:111111,100:D4AF37&amp;height=230&amp;section=header&amp;text=Akshyat%20Manandhar&amp;fontColor=FFF8DC&amp;fontSize=44&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Full-Stack%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Backend&amp;descSize=17&amp;descAlignY=58" width="100%" alt="Akshyat Manandhar — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=230&amp;section=header&amp;text=Akshyat%20Manandhar&amp;fontColor=FFF8DC&amp;fontSize=44&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Full-Stack%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Backend&amp;descSize=17&amp;descAlignY=58" width="100%" alt="Akshyat Manandhar — Full-Stack Developer" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=D4AF37&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=Building+full-stack+products+with+React+%26+Node.js;Crafting+mobile+apps+with+React+Native;Writing+scalable+backend+services+in+Go;Turning+ideas+into+useful+digital+products" alt="Animated introduction" />
@@ -202,4 +202,4 @@ I’m a full-stack developer focused on building reliable web, mobile, and backe
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,55:111111,100:D4AF37&amp;height=120&amp;section=footer" width="100%" alt="Black and gold footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=120&amp;section=footer" width="100%" alt="Deep teal gradient footer" />
