@@ -1,18 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=230&amp;section=header&amp;text=Akshyat%20Manandhar&amp;fontColor=FFF8DC&amp;fontSize=44&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Full-Stack%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Backend&amp;descSize=17&amp;descAlignY=58" width="100%" alt="Akshyat Manandhar — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=230&amp;section=header&amp;text=Akshyat%20Manandhar&amp;fontColor=F8F8F2&amp;fontSize=44&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Full-Stack%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Backend&amp;descSize=17&amp;descAlignY=58" width="100%" alt="Akshyat Manandhar — Full-Stack Developer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=D4AF37&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=Building+full-stack+products+with+React+%26+Node.js;Crafting+mobile+apps+with+React+Native;Writing+scalable+backend+services+in+Go;Turning+ideas+into+useful+digital+products" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=2c5364&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=Building+full-stack+products+with+React+%26+Node.js;Crafting+mobile+apps+with+React+Native;Writing+scalable+backend+services+in+Go;Turning+ideas+into+useful+digital+products" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <a href="mailto:manandharakshyat@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=D4AF37" alt="Email Akshyat" /></a>
-  <a href="https://www.linkedin.com/in/akshyat-manandhar/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=D4AF37" alt="Akshyat on LinkedIn" /></a>
-  <a href="https://github.com/AkshyatMan"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=D4AF37" alt="Akshyat on GitHub" /></a>
-  <a href="AkshyatManandharCV.pdf"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-D4AF37?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=000000" alt="View résumé" /></a>
+  <a href="mailto:manandharakshyat@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0f2027?style=for-the-badge&amp;logo=gmail&amp;logoColor=2c5364" alt="Email Akshyat" /></a>
+  <a href="https://www.linkedin.com/in/akshyat-manandhar/"><img src="https://img.shields.io/badge/LINKEDIN-0f2027?style=for-the-badge&amp;logo=linkedin&amp;logoColor=2c5364" alt="Akshyat on LinkedIn" /></a>
+  <a href="https://github.com/AkshyatMan"><img src="https://img.shields.io/badge/GITHUB-0f2027?style=for-the-badge&amp;logo=github&amp;logoColor=2c5364" alt="Akshyat on GitHub" /></a>
+  <a href="AkshyatManandharCV.pdf"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-2c5364?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=0f2027" alt="View résumé" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshyatMan&amp;color=D4AF37&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AkshyatMan&amp;color=2c5364&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
@@ -77,8 +77,8 @@ I’m a full-stack developer focused on building reliable web, mobile, and backe
         <img src="https://skillicons.dev/icons?i=ts,react,tailwind&amp;theme=dark" height="34" alt="TypeScript, React, and Tailwind CSS" />
       </p>
       <p align="center">
-        <a href="https://otech-three.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-D4AF37?style=for-the-badge&amp;logo=vercel&amp;logoColor=000000" alt="View Otech live" /></a>
-        <a href="https://github.com/AkshyatMan/Otech"><img src="https://img.shields.io/badge/SOURCE-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=D4AF37" alt="View Otech source" /></a>
+        <a href="https://otech-three.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-2c5364?style=for-the-badge&amp;logo=vercel&amp;logoColor=0f2027" alt="View Otech live" /></a>
+        <a href="https://github.com/AkshyatMan/Otech"><img src="https://img.shields.io/badge/SOURCE-0f2027?style=for-the-badge&amp;logo=github&amp;logoColor=2c5364" alt="View Otech source" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -89,7 +89,7 @@ I’m a full-stack developer focused on building reliable web, mobile, and backe
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres&amp;theme=dark" height="34" alt="TypeScript, React, Node.js, and PostgreSQL" />
       </p>
       <p align="center">
-        <a href="https://heirloomweb.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-D4AF37?style=for-the-badge&amp;logo=vercel&amp;logoColor=000000" alt="View Heirloom live" /></a>
+        <a href="https://heirloomweb.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2c5364?style=for-the-badge&amp;logo=vercel&amp;logoColor=0f2027" alt="View Heirloom live" /></a>
       </p>
     </td>
   </tr>
@@ -102,7 +102,7 @@ I’m a full-stack developer focused on building reliable web, mobile, and backe
         <img src="https://skillicons.dev/icons?i=ts,react,css&amp;theme=dark" height="34" alt="TypeScript, React, and CSS" />
       </p>
       <p align="center">
-        <a href="https://dhn-zsck.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-D4AF37?style=for-the-badge&amp;logo=vercel&amp;logoColor=000000" alt="View DHN live" /></a>
+        <a href="https://dhn-zsck.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2c5364?style=for-the-badge&amp;logo=vercel&amp;logoColor=0f2027" alt="View DHN live" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -113,7 +113,7 @@ I’m a full-stack developer focused on building reliable web, mobile, and backe
         <img src="https://skillicons.dev/icons?i=js,html,css&amp;theme=dark" height="34" alt="JavaScript, HTML, and CSS" />
       </p>
       <p align="center">
-        <a href="https://lumoraindex.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-D4AF37?style=for-the-badge&amp;logo=vercel&amp;logoColor=000000" alt="View Lumora live" /></a>
+        <a href="https://lumoraindex.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-2c5364?style=for-the-badge&amp;logo=vercel&amp;logoColor=0f2027" alt="View Lumora live" /></a>
       </p>
     </td>
   </tr>
@@ -126,16 +126,16 @@ I’m a full-stack developer focused on building reliable web, mobile, and backe
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AkshyatMan&amp;show_icons=true&amp;include_all_commits=true&amp;border_color=D4AF37&amp;border_radius=10&amp;bg_color=135,0D1117,18130A&amp;title_color=F5D76E&amp;icon_color=D4AF37&amp;text_color=F8F8F2&amp;rank_icon=github" width="100%" alt="Akshyat's GitHub statistics" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AkshyatMan&amp;show_icons=true&amp;include_all_commits=true&amp;border_color=2c5364&amp;border_radius=10&amp;bg_color=135,0f2027,203a43,2c5364&amp;title_color=F8F8F2&amp;icon_color=2c5364&amp;text_color=F8F8F2&amp;rank_icon=github" width="100%" alt="Akshyat's GitHub statistics" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshyatMan&amp;layout=compact&amp;langs_count=8&amp;border_color=D4AF37&amp;border_radius=10&amp;bg_color=135,0D1117,18130A&amp;title_color=F5D76E&amp;text_color=F8F8F2" width="100%" alt="Akshyat's most-used languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshyatMan&amp;layout=compact&amp;langs_count=8&amp;border_color=2c5364&amp;border_radius=10&amp;bg_color=135,0f2027,203a43,2c5364&amp;title_color=F8F8F2&amp;text_color=F8F8F2" width="100%" alt="Akshyat's most-used languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkshyatMan&amp;theme=dark&amp;background=0D1117&amp;border=D4AF37&amp;ring=D4AF37&amp;fire=FFD700&amp;currStreakNum=F5D76E&amp;sideNums=F5D76E&amp;currStreakLabel=D4AF37&amp;sideLabels=D4AF37&amp;dates=8B949E" alt="Akshyat's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=AkshyatMan&amp;theme=dark&amp;background=135%2C0f2027%2C203a43%2C2c5364&amp;border=2c5364&amp;ring=2c5364&amp;fire=2c5364&amp;currStreakNum=F8F8F2&amp;sideNums=F8F8F2&amp;currStreakLabel=2c5364&amp;sideLabels=2c5364&amp;dates=8B949E" alt="Akshyat's GitHub contribution streak" />
 </p>
 
 ---
@@ -143,9 +143,9 @@ I’m a full-stack developer focused on building reliable web, mobile, and backe
 ## Certifications &amp; recognition
 
 <p align="center">
-  <a href="https://www.credly.com/go/27u2sTZZ"><img src="https://img.shields.io/badge/AWS-CLOUD_FOUNDATIONS-D4AF37?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=000000" alt="AWS Cloud Foundations credential" /></a>
-  <a href="https://www.credly.com/go/iSjqHX2C"><img src="https://img.shields.io/badge/AWS-ML_FOUNDATIONS-D4AF37?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=000000" alt="AWS Machine Learning Foundations credential" /></a>
-  <img src="https://img.shields.io/badge/ISLINGTON-AAA_%C3%972-0D1117?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=D4AF37" alt="Two Islington College AAA Scholarship Awards" />
+  <a href="https://www.credly.com/go/27u2sTZZ"><img src="https://img.shields.io/badge/AWS-CLOUD_FOUNDATIONS-2c5364?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=0f2027" alt="AWS Cloud Foundations credential" /></a>
+  <a href="https://www.credly.com/go/iSjqHX2C"><img src="https://img.shields.io/badge/AWS-ML_FOUNDATIONS-2c5364?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=0f2027" alt="AWS Machine Learning Foundations credential" /></a>
+  <img src="https://img.shields.io/badge/ISLINGTON-AAA_%C3%972-0f2027?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=2c5364" alt="Two Islington College AAA Scholarship Awards" />
 </p>
 
 <details>
@@ -197,7 +197,7 @@ I’m a full-stack developer focused on building reliable web, mobile, and backe
 <div align="center">
   <h2>Let’s build something useful.</h2>
   <p>Have a web, mobile, or backend idea? I’d be happy to hear about it.</p>
-  <a href="mailto:manandharakshyat@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-D4AF37?style=for-the-badge&amp;logo=gmail&amp;logoColor=000000" alt="Start a conversation by email" /></a>
+  <a href="mailto:manandharakshyat@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-2c5364?style=for-the-badge&amp;logo=gmail&amp;logoColor=0f2027" alt="Start a conversation by email" /></a>
 </div>
 
 <br />
